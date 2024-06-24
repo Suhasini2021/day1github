@@ -1,2 +1,4 @@
 # day1github
-author-Pranathi (hi)
+author-Pranathi Suhasini (Hi)
+Hello
+
